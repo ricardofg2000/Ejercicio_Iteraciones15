@@ -83,6 +83,7 @@ public class Ejercicio15 {
 				}
 				System.out.println();
 			}
+			break;
 		default:
 			System.out.println("Error");
 		}
